@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases.test_basic_calc",
+    "children" : [ {
+      "name" : "test_add",
+      "children" : [ {
+        "name" : "TestAdd",
+        "children" : [ {
+          "name" : "[case01] 验证计算器能否正常完成加法功能",
+          "uid" : "de1b6333dfb86f13",
+          "parentUid" : "f5776055d934acd5dc95a9b3fed60c6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634132928844,
+            "stop" : 1634132935061,
+            "duration" : 6217
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[case02] 验证计算器能否正常完成三角函数运算",
+          "uid" : "74830a0ee9e6dfb8",
+          "parentUid" : "f5776055d934acd5dc95a9b3fed60c6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634132947131,
+            "stop" : 1634132956342,
+            "duration" : 9211
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f5776055d934acd5dc95a9b3fed60c6e"
+      } ],
+      "uid" : "44c06e9ba2af6010ee918478ae8e18e2"
+    }, {
+      "name" : "test_sub",
+      "children" : [ {
+        "name" : "TestSub",
+        "children" : [ {
+          "name" : "[case01] 验证计算器能否正常完成减法功能",
+          "uid" : "63717feeae329a4a",
+          "parentUid" : "7e19360b07a2911a48e1baf861d3213a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1634132968755,
+            "stop" : 1634132970626,
+            "duration" : 1871
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7e19360b07a2911a48e1baf861d3213a"
+      } ],
+      "uid" : "273b415636eb07afc046e5ba4b15821b"
+    } ],
+    "uid" : "79bc8c2223ecf86027976d3a29eca472"
+  } ]
+}

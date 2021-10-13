@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Oct 13 21:49:28 CST 2021","Wed Oct 13 21:49:30 CST 2021","1871","testcases.test_basic_calc","test_sub","TestSub","","","[case01] 验证计算器能否正常完成减法功能",""
+"passed","Wed Oct 13 21:48:48 CST 2021","Wed Oct 13 21:48:55 CST 2021","6217","testcases.test_basic_calc","test_add","TestAdd","","","[case01] 验证计算器能否正常完成加法功能",""
+"passed","Wed Oct 13 21:49:07 CST 2021","Wed Oct 13 21:49:16 CST 2021","9211","testcases.test_basic_calc","test_add","TestAdd","","","[case02] 验证计算器能否正常完成三角函数运算",""

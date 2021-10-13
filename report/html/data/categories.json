@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "[case01] 验证计算器能否正常完成减法功能",
+        "uid" : "63717feeae329a4a",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1634132968755,
+          "stop" : 1634132970626,
+          "duration" : 1871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
